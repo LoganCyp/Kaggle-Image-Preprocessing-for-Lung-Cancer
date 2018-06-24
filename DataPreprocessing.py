@@ -10,7 +10,7 @@ import math
 dataDirectory = 'stage1/stage1/'
 lungPatients = os.listdir(dataDirectory)
 
-##Read labels csv
+##Read the Labels.csv file
 labels = pd.read_csv('labels/labels.csv', index_col=0)
 
 ##Setting x*y size to 50
