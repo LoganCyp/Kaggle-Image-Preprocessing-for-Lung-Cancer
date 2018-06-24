@@ -6,19 +6,19 @@ Image Pre-processing before being fed into a 3D Convolutional Neural Network
 
 <b>Software</b>
 
--Python 3.6 -- For running program
--Microdicom -- Viewing Dicom Images
+<p>Python 3.6 -- For running program<p>
+<p>Microdicom -- Viewing Dicom Images<p>
 
 
 
 <b>Dependencies:</b>
 
 
--Numpy
--Pandas
--Pydicom
--Matplotlib
--OpenCV2
+<p>Numpy<p>
+<p>Pandas<p>
+<p>Pydicom<p>
+<p>Matplotlib<p>
+<p>OpenCV2<p>
 
--All Depedencies Can Be Installed by pip3 install 
+<p>All Depedencies Can Be Installed by pip3 install <p>
 
