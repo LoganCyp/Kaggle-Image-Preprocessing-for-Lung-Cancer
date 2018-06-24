@@ -4,14 +4,14 @@ Image Pre-processing before being fed into a 3D Convolutional Neural Network
 
 
 
-Software
+<b>Software</b>
 
 Python 3.6 -- For running program
 Microdicom -- Viewing Dicom Images
 
 
 
-Dependencies:
+<b>Dependencies:</b>
 
 
 Numpy
