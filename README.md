@@ -1,4 +1,4 @@
-# Kaggle-Image-Preprocessing-for-Lung-Cancer
+# Kaggle Image Preprocessing for Lung Cancer Detection
 
 Image Pre-processing before being fed into a 3D Convolutional Neural Network
 
